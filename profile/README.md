@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/srm-kzilla">
+  <a href="https://github.com/farmako">
    <img src="https://github.com/farmako/.github/assets/74819565/b4fbf37e-b4f1-4e0d-9797-a337a426d0f8" alt="Logo">
   </a>
 
